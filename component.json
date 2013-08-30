@@ -1,0 +1,24 @@
+{
+  "name": "topograph",
+  "repo": "jkroso/topograph",
+  "description": "stores a graph of nodes and provides sorting and iteration",
+  "version": "0.1.0",
+  "keywords": [
+    "topological",
+    "graph",
+    "set"
+  ],
+  "dependencies": {
+    "jkroso/toposort": "0.3.0"
+  },
+  "development": {
+    "visionmedia/mocha": "1.12.0",
+    "jkroso/serve": "1.5.0",
+    "chaijs/chai-spies": "0.5.1",
+    "chaijs/chai": "1.7.2"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT"
+}

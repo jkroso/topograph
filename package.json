@@ -1,0 +1,17 @@
+{
+  "name": "topograph",
+  "version": "0.1.0",
+  "description": "stores a graph of nodes and provides sorting and iteration",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jkroso/topograph.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jkroso/topograph/issues"
+  },
+  "keywords": ["topological","graph","set"],
+  "author": "Jake Rosoman",
+  "license": "MIT"
+}
