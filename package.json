@@ -1,6 +1,6 @@
 {
   "name": "topograph",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "stores a graph of nodes and provides sorting and iteration",
   "dependencies": {},
   "devDependencies": {},
